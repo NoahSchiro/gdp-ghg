@@ -18,13 +18,13 @@ Sources for the data:
 ---
 
 ### China
-![](images/china.png)
-![](images/china_log.png)
+![](./assets/china.png)
+![](./assets/china_log.png)
 
 ### United States
-![](images/united_states.png)
-![](images/united_states_log.png)
+![](./assets/united_states.png)
+![](./assets/united_states_log.png)
 
 ### India
-![](images/india.png)
-![](images/india_log.png)
+![](./assets/india.png)
+![](./assets/india_log.png)
